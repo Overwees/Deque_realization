@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Deque_realization, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>Deque_realization.vcxproj -> D:\Универ\Программирование\Мои проекты\Deque_realization\Debug\Deque_realization.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
